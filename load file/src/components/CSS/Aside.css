@@ -1,0 +1,36 @@
+aside{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 1000px;
+    height: 250px;
+    background: #1e0f0f;
+    margin: 5px auto;
+}
+
+.cases{
+    padding: 5px;
+    background: #1e0f0f;
+}
+
+.title{
+    font-size: 20px;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.exp{
+    padding: 5px;
+    background: #1e0f0f;
+}
+
+.staff{
+    padding: 5px;
+    background: #1e0f0f;
+}
+
+button{
+    background: gray;
+}

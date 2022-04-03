@@ -1,0 +1,41 @@
+header{
+    width: 1000px;
+    height: 100px;
+    margin: 5px auto;
+}
+
+.name{
+    width: 1000px;
+    height: 30px;
+    font-size: 30px;
+    color: #e5d9d9;
+}
+
+.name span{
+    color: orange;
+}
+
+hr{
+    border: .1px solid orange;
+}
+
+.nav{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+}
+
+.btns{
+    display: flex;
+    padding: 10px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: #1e0f0f;
+    border-left: .5px solid black;
+    border-right: .5px solid black;
+}
+
+.b1{
+    background: orange;
+}

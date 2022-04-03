@@ -1,0 +1,20 @@
+main{
+    width: 1000px;
+    height: 400px;
+    margin: 5px auto;
+}
+
+.photo{
+    position: absolute;
+    width: 1000px;
+    height: 400px;
+}
+
+.txt{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: Calibri;
+    top: 170px;
+    right: 450px;
+}
